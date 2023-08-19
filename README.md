@@ -1,1 +1,2 @@
-# practice-of-opencv-functions
+# UAS SOFTWARE ROUND 2 TASK , FIRST YEAR
+# DEVELOPED BY ANUBHAV MISHRA , 23/SE/027
